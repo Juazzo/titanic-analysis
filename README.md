@@ -23,7 +23,3 @@ Python, pandas, seaborn, matplotlib, Jupyter.
 ![Survival by class and sex](reports/figures/survival_by_class_and_sex.png)
 ![Survival by age group](reports/figures/survival_by_age_group.png)
 
-## How to run
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open `notebooks/01_titanic_analysis.ipynb` and run all cells.
